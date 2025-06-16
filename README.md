@@ -24,33 +24,40 @@ cd mocka-color
 
 ```
 
-🧁 Included Color Palettes (Flavors)
-Peach Fuzz 🍑
+---
 
-Icy Breeze ❄️
+## 🧁 Included Color Palettes (Flavors)
 
-Sorbet Dream 🍧
+1. Peach Fuzz 🍑
 
-Blueberry Milk 🫐
+2. Icy Breeze ❄️
 
-Pastel Mochi 🍡
+3. Sorbet Dream 🍧
 
-Unicorn Mist 🦄
+4. Blueberry Milk 🫐
 
-Honey Rose 🍯🌹
+5. Pastel Mochi 🍡
 
-Blossom Breeze 🌸
+6. Unicorn Mist 🦄
 
-Mint Blossom 🌿
+7. Honey Rose 🍯🌹
 
-🛠 Built With
+8. Blossom Breeze 🌸
+
+9. Mint Blossom 🌿
+
+---
+
+## 🛠 Built With
+
 React – JavaScript library for building user interfaces
 
 Next.js – React framework for SSR and static site generation
 
 Tailwind CSS – Utility-first CSS framework
 
-🤝 Contributing
+## 🤝 Contributing
+
 We welcome contributions from the community!
 
 You can contribute by:
@@ -75,15 +82,16 @@ Push to the branch (git push origin feature/your-feature)
 
 Open a Pull Request
 
-👏 Acknowledgements
+## 👏 Acknowledgements
+
 This project was made possible thanks to everyone who contributed their creativity and love for pastel color design.
 
-Contributors
 🎨 You – the creative collaborator
 
 🌸 Special thanks to friends and community members who helped test, review, and shape the final palette designs
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 ```
