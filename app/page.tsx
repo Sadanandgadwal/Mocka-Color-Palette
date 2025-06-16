@@ -3,12 +3,9 @@ import React from "react";
 import ColorPalette from "./components/ColorPalette";
 import {
   peachFuzzColors,
-  sakuraBloomColors,
   IcyBreeze,
   SorbetDream,
-  LavenderFields,
   BlueberryMilk,
-  TeaGarden,
   PastelMochi,
   UnicornMist,
   HoneyRose,
