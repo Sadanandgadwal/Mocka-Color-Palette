@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🎨 Mocka Color Palette
 
-## Getting Started
+**Mocka Color** is a pastel-inspired design tool featuring a collection of soft, elegant, and curated color palettes—called **flavors**. Each flavor represents a unique visual theme made for designers, developers, and creators seeking beautiful, ready-to-use color combinations.
 
-First, run the development server:
+---
+
+## 🌟 Features
+
+- 10+ pastel-themed color palettes
+- Each color includes HEX, RGB, and HSL values
+- Clean and aesthetic UI
+- Built with React and Tailwind CSS
+- Fully responsive
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/your-username/mocka-color.git
+cd mocka-color
+
+
+🧁 Included Color Palettes (Flavors)
+Peach Fuzz 🍑
+
+Icy Breeze ❄️
+
+Sorbet Dream 🍧
+
+Blueberry Milk 🫐
+
+Pastel Mochi 🍡
+
+Unicorn Mist 🦄
+
+Honey Rose 🍯🌹
+
+Blossom Breeze 🌸
+
+Mint Blossom 🌿
+
+
+
+
+🛠 Built With
+React – JavaScript library for building user interfaces
+
+Next.js – React framework for SSR and static site generation
+
+Tailwind CSS – Utility-first CSS framework
+
+🤝 Contributing
+We welcome contributions from the community!
+
+You can contribute by:
+
+Adding new pastel palettes
+
+Improving the UI/UX
+
+Fixing bugs
+
+Suggesting ideas
+
+To contribute:
+
+Fork the repository
+
+Create a new branch (git checkout -b feature/your-feature)
+
+Commit your changes (git commit -m 'Add something cool')
+
+Push to the branch (git push origin feature/your-feature)
+
+Open a Pull Request
+
+
+👏 Acknowledgements
+This project was made possible thanks to everyone who contributed their creativity and love for pastel color design.
+
+Contributors
+🎨 You – the creative collaborator
+
+🌸 Special thanks to friends and community members who helped test, review, and shape the final palette designs
+
+📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
