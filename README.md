@@ -22,6 +22,7 @@
 git clone https://github.com/your-username/mocka-color.git
 cd mocka-color
 
+```
 
 🧁 Included Color Palettes (Flavors)
 Peach Fuzz 🍑
@@ -41,9 +42,6 @@ Honey Rose 🍯🌹
 Blossom Breeze 🌸
 
 Mint Blossom 🌿
-
-
-
 
 🛠 Built With
 React – JavaScript library for building user interfaces
@@ -77,7 +75,6 @@ Push to the branch (git push origin feature/your-feature)
 
 Open a Pull Request
 
-
 👏 Acknowledgements
 This project was made possible thanks to everyone who contributed their creativity and love for pastel color design.
 
@@ -88,5 +85,7 @@ Contributors
 
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
+
+```
 
 ```
