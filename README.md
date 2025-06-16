@@ -60,28 +60,6 @@ Tailwind CSS – Utility-first CSS framework
 
 We welcome contributions from the community!
 
-You can contribute by:
-
-Adding new pastel palettes
-
-Improving the UI/UX
-
-Fixing bugs
-
-Suggesting ideas
-
-To contribute:
-
-Fork the repository
-
-Create a new branch (git checkout -b feature/your-feature)
-
-Commit your changes (git commit -m 'Add something cool')
-
-Push to the branch (git push origin feature/your-feature)
-
-Open a Pull Request
-
 ## 👏 Acknowledgements
 
 This project was made possible thanks to everyone who contributed their creativity and love for pastel color design.
