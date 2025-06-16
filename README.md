@@ -94,6 +94,6 @@ This project was made possible thanks to everyone who contributed their creativi
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-```
+<!-- ```
 
-```
+``` -->
