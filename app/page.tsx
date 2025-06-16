@@ -24,18 +24,18 @@ export default function Home() {
         <strong>flavors</strong>.
       </p>
 
-      <ColorPalette title="Peach Fuzz" colors={peachFuzzColors} />
+      <ColorPalette title="🍑 Peach Fuzz" colors={peachFuzzColors} />
       {/* <ColorPalette title="Sakura Bloom" colors={sakuraBloomColors} /> */}
-      <ColorPalette title="Icy Breeze" colors={IcyBreeze} />
-      <ColorPalette title="Sorbet Dream" colors={SorbetDream} />
+      <ColorPalette title="❄️ Icy Breeze" colors={IcyBreeze} />
+      <ColorPalette title="🍧 Sorbet Dream" colors={SorbetDream} />
       {/* <ColorPalette title="Lavender Fields" colors={LavenderFields} /> */}
-      <ColorPalette title="Blueberry Milk" colors={BlueberryMilk} />
+      <ColorPalette title="🫐 Blueberry Milk" colors={BlueberryMilk} />
       {/* <ColorPalette title="Tea Garden" colors={TeaGarden} /> */}
-      <ColorPalette title="Pastel Mochi" colors={PastelMochi} />
-      <ColorPalette title="Unicorn Mist" colors={UnicornMist} />
-      <ColorPalette title="Honey Rose" colors={HoneyRose} />
-      <ColorPalette title="Blossom Breeze" colors={BlossomBreeze} />
-      <ColorPalette title="Mint Blossom" colors={MintBlossom} />
+      <ColorPalette title="🍡 Pastel Mochi" colors={PastelMochi} />
+      <ColorPalette title="🦄 Unicorn Mist" colors={UnicornMist} />
+      <ColorPalette title="🍯🌹 Honey Rose" colors={HoneyRose} />
+      <ColorPalette title="🌸 Blossom Breeze" colors={BlossomBreeze} />
+      <ColorPalette title="🌿 Mint Blossom" colors={MintBlossom} />
     </main>
   );
 }
